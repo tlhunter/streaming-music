@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+	<title>SomaFM</title>
+	<creator>VOX</creator>
+	<date>2015-05-12T13:06:43+07:00</date>
+	<trackList>
+		<track>
+			<location>http://uwstream1.somafm.com:80</location>
+			<title>Groove Salad: a nicely chilled plate of ambient beats and grooves. [SomaFM]</title>
+			<trackNum>1</trackNum>
+			<duration>0</duration>
+		</track>
+		<track>
+			<location>http://somafm.com/thetrip.pls</location>
+			<title>The Trip: Progressive house / trance. Tip top tunes. (Formerly Tag&apos;s Trance Trip) [SomaFM]</title>
+			<trackNum>2</trackNum>
+			<duration>0</duration>
+		</track>
+		<track>
+			<location>http://somafm.com/dubstep.pls</location>
+			<title>Dub Step Beyond: Dubstep, Dub and Deep Bass. May damage speakers at high volume. [SomaFM]</title>
+			<trackNum>3</trackNum>
+			<duration>0</duration>
+		</track>
+		<track>
+			<location>http://somafm.com/defcon.pls</location>
+			<title>Def Con Radio: SomaFM&apos;s special mix for Def Con [SomaFM]</title>
+			<trackNum>4</trackNum>
+			<duration>0</duration>
+		</track>
+		<track>
+			<location>http://somafm.com/suburbsofgoa130.pls</location>
+			<title>Suburbs of Goa [SomaFM]</title>
+			<trackNum>5</trackNum>
+			<duration>0</duration>
+		</track>
+		<track>
+			<location>http://somafm.com/cliqhop.pls</location>
+			<title>&lt;-- cliqhop --> blips&apos;n&apos;bleeps backed w/ beats. [SomaFM]</title>
+			<trackNum>6</trackNum>
+			<duration>0</duration>
+		</track>
+		<track>
+			<location>http://somafm.com/illstreet130.pls</location>
+			<title>Illinois Street Lounge [SomaFM]</title>
+			<trackNum>7</trackNum>
+			<duration>0</duration>
+		</track>
+		<track>
+			<location>http://somafm.com/sxfm.pls</location>
+			<title>South by Soma - Bands you&apos;ll hear at this year&apos;s SXSW festival (unofficial) [SomaFM]</title>
+			<trackNum>8</trackNum>
+			<duration>0</duration>
+		</track>
+		<track>
+			<location>http://somafm.com/lush.pls</location>
+			<title>Lush: Mostly female vocals with an electronic influence. [SomaFM]</title>
+			<trackNum>9</trackNum>
+			<duration>0</duration>
+		</track>
+		<track>
+			<location>http://somafm.com/spacestation.pls</location>
+			<title>Space Station Soma: Tune in, turn on, space out. Ambient and mid-tempo electronica. [SomaFM]</title>
+			<trackNum>10</trackNum>
+			<duration>0</duration>
+		</track>
+		<track>
+			<location>http://somafm.com/dronezone.pls</location>
+			<title>Drone Zone: Atmospheric ambient space music. Serve Best Chilled. Safe with most medications. [SomaFM]</title>
+			<trackNum>11</trackNum>
+			<duration>0</duration>
+		</track>
+		<track>
+			<location>http://somafm.com/deepspaceone.pls</location>
+			<title>Deep Space One: Deep ambient electronic and space music. [SomaFM]</title>
+			<trackNum>12</trackNum>
+			<duration>0</duration>
+		</track>
+		<track>
+			<location>http://somafm.com/digitalis.pls</location>
+			<title>Digitalis. Analog rock, digitally-affected, to calm the agitated heart. [SomaFM]</title>
+			<trackNum>13</trackNum>
+			<duration>0</duration>
+		</track>
+		<track>
+			<location>http://somafm.com/indiepop.pls</location>
+			<title>SomaFM presents: Indie Pop Rocks! [SomaFM]</title>
+			<trackNum>14</trackNum>
+			<duration>0</duration>
+		</track>
+		<track>
+			<location>http://somafm.com/earwaves.pls</location>
+			<title>Earwaves: Spanning the history of electronic and experimental music from the early pioneers to the latest innovators. [SomaFM]</title>
+			<trackNum>15</trackNum>
+			<duration>0</duration>
+		</track>
+		<track>
+			<location>http://somafm.com/missioncontrol.pls</location>
+			<title>Mission Control: Celebrating NASA and space explorers everywhere. [SomaFM]</title>
+			<trackNum>16</trackNum>
+			<duration>0</duration>
+		</track>
+		<track>
+			<location>http://somafm.com/bootliquor.pls</location>
+			<title>Boot Liquor: Americana roots music for Cowhands, Cowpokes and Cowtippers. [SomaFM]</title>
+			<trackNum>17</trackNum>
+			<duration>0</duration>
+		</track>
+		<track>
+			<location>http://somafm.com/u80s.pls</location>
+			<title>Underground Eighties: UK Synthpop and a bit of New Wave. [SomaFM]</title>
+			<trackNum>18</trackNum>
+			<duration>0</duration>
+		</track>
+		<track>
+			<location>http://somafm.com/folkfwd.pls</location>
+			<title>Future Folk: Indie Folk, Neobilly, Steampunk, Gaslight and the occasional folk classics. [SomaFM]</title>
+			<trackNum>19</trackNum>
+			<duration>0</duration>
+		</track>
+		<track>
+			<location>http://somafm.com/beatblender.pls</location>
+			<title>Beat Blender: A late night blend of deep-house &amp; downtempo chill. [SomaFM]</title>
+			<trackNum>20</trackNum>
+			<duration>0</duration>
+		</track>
+		<track>
+			<location>http://somafm.com/brfm.pls</location>
+			<title>SomaFM&apos;s Black Rock FM: From the Playa to the world, where every Saturday night is Burn Night [SomaFM]</title>
+			<trackNum>21</trackNum>
+			<duration>0</duration>
+		</track>
+		<track>
+			<location>http://somafm.com/sf1033.pls</location>
+			<title>Ambient music mixed with the sounds of San Francisco public safety radio traffic. [SomaFM]</title>
+			<trackNum>22</trackNum>
+			<duration>0</duration>
+		</track>
+		<track>
+			<location>http://somafm.com/doomed.pls</location>
+			<title>Doomed: Dark music for tortured souls [SomaFM]</title>
+			<trackNum>23</trackNum>
+			<duration>0</duration>
+		</track>
+		<track>
+			<location>http://somafm.com/bagel.pls</location>
+			<title>BAGeL Radio: What alternative rock radio should sound like. [SomaFM]</title>
+			<trackNum>24</trackNum>
+			<duration>0</duration>
+		</track>
+		<track>
+			<location>http://somafm.com/covers.pls</location>
+			<title>Cover Me: All covers, all the time. [SomaFM]</title>
+			<trackNum>25</trackNum>
+			<duration>0</duration>
+		</track>
+	</trackList>
+</playlist>
