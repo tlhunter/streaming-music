@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+	<title>Digitally Imported</title>
+	<creator>VOX</creator>
+	<date>2015-05-20T10:35:28+07:00</date>
+	<trackList>
+		<track>
+			<location>http://pub2.di.fm/di_ambient_aac?type=.aac</location>
+			<title>Ambient - DIGITALLY IMPORTED - a blend of ambient, downtempo, and chillout</title>
+			<trackNum>1</trackNum>
+			<duration>0</duration>
+		</track>
+		<track>
+			<location>http://pub2.di.fm/di_detroithousentechno?type=.aac</location>
+			<title>Detroit House &amp; Techno - DIGITALLY IMPORTED</title>
+			<trackNum>2</trackNum>
+			<duration>0</duration>
+		</track>
+	</trackList>
+</playlist>
