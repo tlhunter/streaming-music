@@ -1,11 +1,11 @@
 # Streaming Music
 
-Streaming music playlist URLs are becomming increasingly hard to locate! Let this repo be your guide.
+As streaming music playlist URLs become increasingly hard to locate, the need to sniff HTTP network traffic and write them down somewhere increases. May this repo be your light.
 
 ## Collections
 
-* Soma.FM (complete)
-* Digitally Imported (WIP)
+* Soma.FM
+* Digitally Imported
 
 ## Expected Genres
 
