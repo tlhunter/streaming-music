@@ -1,78 +1,100 @@
 [playlist]
+
 File1=http://uwstream1.somafm.com:80
-Title1=Groove Salad: a nicely chilled plate of ambient beats and grooves. [SomaFM]
-Length=-1
-File2=http://somafm.com/thetrip.pls
-Title2=The Trip: Progressive house / trance. Tip top tunes. (Formerly Tag's Trance Trip) [SomaFM]
-Length=-1
-File3=http://somafm.com/dubstep.pls
-Title3=Dub Step Beyond: Dubstep, Dub and Deep Bass. May damage speakers at high volume. [SomaFM]
-Length=-1
-File4=http://somafm.com/defcon.pls
-Title4=Def Con Radio: SomaFM's special mix for Def Con [SomaFM]
-Length=-1
-File5=http://somafm.com/suburbsofgoa130.pls
-Title5=Suburbs of Goa [SomaFM]
-Length=-1
-File6=http://somafm.com/cliqhop.pls
-Title6=<-- cliqhop --> blips'n'bleeps backed w/ beats. [SomaFM]
-Length=-1
-File7=http://somafm.com/illstreet130.pls
-Title7=Illinois Street Lounge [SomaFM]
-Length=-1
-File8=http://somafm.com/sxfm.pls
-Title8=South by Soma - Bands you'll hear at this year's SXSW festival (unofficial) [SomaFM]
-Length=-1
-File9=http://somafm.com/lush.pls
-Title9=Lush: Mostly female vocals with an electronic influence. [SomaFM]
-Length=-1
-File10=http://somafm.com/spacestation.pls
-Title10=Space Station Soma: Tune in, turn on, space out. Ambient and mid-tempo electronica. [SomaFM]
-Length=-1
-File11=http://somafm.com/dronezone.pls
-Title11=Drone Zone: Atmospheric ambient space music. Serve Best Chilled. Safe with most medications. [SomaFM]
-Length=-1
-File12=http://somafm.com/deepspaceone.pls
-Title12=Deep Space One: Deep ambient electronic and space music. [SomaFM]
-Length=-1
-File13=http://somafm.com/digitalis.pls
-Title13=Digitalis. Analog rock, digitally-affected, to calm the agitated heart. [SomaFM]
-Length=-1
-File14=http://somafm.com/indiepop.pls
-Title14=SomaFM presents: Indie Pop Rocks! [SomaFM]
-Length=-1
-File15=http://somafm.com/earwaves.pls
-Title15=Earwaves: Spanning the history of electronic and experimental music from the early pioneers to the latest innovators. [SomaFM]
-Length=-1
-File16=http://somafm.com/missioncontrol.pls
-Title16=Mission Control: Celebrating NASA and space explorers everywhere. [SomaFM]
-Length=-1
-File17=http://somafm.com/bootliquor.pls
-Title17=Boot Liquor: Americana roots music for Cowhands, Cowpokes and Cowtippers. [SomaFM]
-Length=-1
-File18=http://somafm.com/u80s.pls
-Title18=Underground Eighties: UK Synthpop and a bit of New Wave. [SomaFM]
-Length=-1
-File19=http://somafm.com/folkfwd.pls
-Title19=Future Folk: Indie Folk, Neobilly, Steampunk, Gaslight and the occasional folk classics. [SomaFM]
-Length=-1
-File20=http://somafm.com/beatblender.pls
-Title20=Beat Blender: A late night blend of deep-house & downtempo chill. [SomaFM]
-Length=-1
-File21=http://somafm.com/brfm.pls
-Title21=SomaFM's Black Rock FM: From the Playa to the world, where every Saturday night is Burn Night [SomaFM]
-Length=-1
-File22=http://somafm.com/sf1033.pls
-Title22=Ambient music mixed with the sounds of San Francisco public safety radio traffic. [SomaFM]
-Length=-1
-File23=http://somafm.com/doomed.pls
-Title23=Doomed: Dark music for tortured souls [SomaFM]
-Length=-1
-File24=http://somafm.com/bagel.pls
-Title24=BAGeL Radio: What alternative rock radio should sound like. [SomaFM]
-Length=-1
-File25=http://somafm.com/covers.pls
-Title25=Cover Me: All covers, all the time. [SomaFM]
-Length=-1
-NumberOfEntries=25
+Title1=Groove Salad
+Length1=-1
+
+File2=http://uwstream2.somafm.com:80
+Title2=Drone Zone
+Length2=-1
+
+File3=http://uwstream2.somafm.com:2040
+Title3=Ambient Music
+Length3=-1
+
+File4=http://uwstream2.somafm.com:8400
+Title4=Dub Step Beyond
+Length4=-1
+
+File5=http://uwstream2.somafm.com:8854
+Title5=Suburbs of Goa
+Length5=-1
+
+File6=http://xstream1.somafm.com:2020
+Title6=Mission Control
+Length6=-1
+
+File7=http://xstream1.somafm.com:2504
+Title7=The Trip
+Length7=-1
+
+File8=http://xstream1.somafm.com:2800
+Title8=Deep Space One
+Length8=-1
+
+File9=http://xstream1.somafm.com:5100
+Title9=Earwaves
+Length9=-1
+
+File10=http://xstream1.somafm.com:6200
+Title10=Def Con Radio
+Length10=-1
+
+File11=http://xstream1.somafm.com:7000
+Title11=Boot Liquor
+Length11=-1
+
+File12=http://xstream1.somafm.com:7400
+Title12=Folk Forward
+Length12=-1
+
+File13=http://xstream1.somafm.com:8000
+Title13=Space Station Soma
+Length13=-1
+
+File14=http://xstream1.somafm.com:8040
+Title14=Black Rock FM
+Length14=-1
+
+File15=http://xstream1.somafm.com:8062
+Title15=cliqhop
+Length15=-1
+
+File16=http://xstream1.somafm.com:8090
+Title16=Indie Pop Rocks
+Length16=-1
+
+File17=http://xstream1.somafm.com:8300
+Title17=Doomed
+Length17=-1
+
+File18=http://xstream1.somafm.com:8388
+Title18=Beat Blender
+Length18=-1
+
+File19=http://xstream1.somafm.com:8504
+Title19=Illinois Street Lounge
+Length19=-1
+
+File20=http://xstream1.somafm.com:8700
+Title20=Cover Me
+Length20=-1
+
+File21=http://xstream1.somafm.com:8800
+Title21=Lush
+Length21=-1
+
+File22=http://xstream1.somafm.com:8880
+Title22=Underground Eighties
+Length22=-1
+
+File23=http://xstream1.somafm.com:8900
+Title23=Digitalis
+Length23=-1
+
+File24=http://xstream1.somafm.com:9090
+Title24=BAGeL Radio
+Length24=-1
+
+NumberOfEntries=24
 Version=2

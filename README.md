@@ -5,7 +5,6 @@ As streaming music playlist URLs become increasingly hard to locate, the need to
 ## Collections
 
 * Soma.FM
-* Digitally Imported
 
 ## Expected Genres
 
