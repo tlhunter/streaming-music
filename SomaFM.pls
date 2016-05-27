@@ -1,100 +1,67 @@
 [playlist]
-
-File1=http://uwstream1.somafm.com:80
-Title1=Groove Salad
-Length1=-1
-
-File2=http://uwstream2.somafm.com:80
-Title2=Drone Zone
-Length2=-1
-
-File3=http://uwstream2.somafm.com:2040
-Title3=Ambient Music
-Length3=-1
-
-File4=http://uwstream2.somafm.com:8400
-Title4=Dub Step Beyond
-Length4=-1
-
-File5=http://uwstream2.somafm.com:8854
-Title5=Suburbs of Goa
-Length5=-1
-
-File6=http://xstream1.somafm.com:2020
-Title6=Mission Control
-Length6=-1
-
-File7=http://xstream1.somafm.com:2504
-Title7=The Trip
-Length7=-1
-
-File8=http://xstream1.somafm.com:2800
-Title8=Deep Space One
-Length8=-1
-
-File9=http://xstream1.somafm.com:5100
-Title9=Earwaves
-Length9=-1
-
-File10=http://xstream1.somafm.com:6200
-Title10=Def Con Radio
-Length10=-1
-
-File11=http://xstream1.somafm.com:7000
-Title11=Boot Liquor
-Length11=-1
-
-File12=http://xstream1.somafm.com:7400
-Title12=Folk Forward
-Length12=-1
-
-File13=http://xstream1.somafm.com:8000
-Title13=Space Station Soma
-Length13=-1
-
-File14=http://xstream1.somafm.com:8040
-Title14=Black Rock FM
-Length14=-1
-
-File15=http://xstream1.somafm.com:8062
-Title15=cliqhop
-Length15=-1
-
-File16=http://xstream1.somafm.com:8090
-Title16=Indie Pop Rocks
-Length16=-1
-
-File17=http://xstream1.somafm.com:8300
-Title17=Doomed
-Length17=-1
-
-File18=http://xstream1.somafm.com:8388
-Title18=Beat Blender
-Length18=-1
-
-File19=http://xstream1.somafm.com:8504
-Title19=Illinois Street Lounge
-Length19=-1
-
-File20=http://xstream1.somafm.com:8700
-Title20=Cover Me
-Length20=-1
-
-File21=http://xstream1.somafm.com:8800
-Title21=Lush
-Length21=-1
-
-File22=http://xstream1.somafm.com:8880
-Title22=Underground Eighties
-Length22=-1
-
-File23=http://xstream1.somafm.com:8900
-Title23=Digitalis
-Length23=-1
-
-File24=http://xstream1.somafm.com:9090
-Title24=BAGeL Radio
-Length24=-1
-
-NumberOfEntries=24
-Version=2
+NumberOfEntries=65
+File1=http://ice1.somafm.com/groovesalad-128-mp3
+File2=http://ice2.somafm.com/groovesalad-128-mp3
+File3=http://ice1.somafm.com/thetrip-128-mp3
+File4=http://ice2.somafm.com/thetrip-128-mp3
+File5=http://ice1.somafm.com/secretagent-128-mp3
+File6=http://ice2.somafm.com/secretagent-128-mp3
+File7=http://ice1.somafm.com/spacestation-128-mp3
+File8=http://ice2.somafm.com/spacestation-128-mp3
+File9=http://ice1.somafm.com/dronezone-128-mp3
+File10=http://ice2.somafm.com/dronezone-128-mp3
+File11=http://ice1.somafm.com/seventies-128-mp3
+File12=http://ice2.somafm.com/seventies-128-mp3
+File13=http://ice1.somafm.com/lush-128-mp3
+File14=http://ice2.somafm.com/lush-128-mp3
+File15=http://ice1.somafm.com/defcon-128-mp3
+File16=http://ice2.somafm.com/defcon-128-mp3
+File17=http://ice1.somafm.com/fluid-128-mp3
+File18=http://ice2.somafm.com/fluid-128-mp3
+File19=http://ice1.somafm.com/digitalis-128-mp3
+File20=http://ice2.somafm.com/digitalis-128-mp3
+File21=http://ice1.somafm.com/indiepop-128-mp3
+File22=http://ice2.somafm.com/indiepop-128-mp3
+File23=http://ice1.somafm.com/bagel-128-mp3
+File24=http://ice2.somafm.com/bagel-128-mp3
+File25=http://ice1.somafm.com/metal-128-mp3
+File26=http://ice2.somafm.com/metal-128-mp3
+File27=http://ice1.somafm.com/cliqhop-128-mp3
+File28=http://ice2.somafm.com/cliqhop-128-mp3
+File29=http://ice1.somafm.com/dubstep-128-mp3
+File30=http://ice2.somafm.com/dubstep-128-mp3
+File31=http://ice1.somafm.com/poptron-128-mp3
+File32=http://ice2.somafm.com/poptron-128-mp3
+File33=http://ice1.somafm.com/thistle-128-mp3
+File34=http://ice2.somafm.com/thistle-128-mp3
+File35=http://ice1.somafm.com/folkfwd-128-mp3
+File36=http://ice2.somafm.com/folkfwd-128-mp3
+File37=http://ice1.somafm.com/bootliquor-128-mp3
+File38=http://ice2.somafm.com/bootliquor-128-mp3
+File39=http://ice1.somafm.com/7soul-128-mp3
+File40=http://ice2.somafm.com/7soul-128-mp3
+File41=http://ice1.somafm.com/earwaves-128-mp3
+File42=http://ice2.somafm.com/earwaves-128-mp3
+File43=http://ice1.somafm.com/missioncontrol-128-mp3
+File44=http://ice2.somafm.com/missioncontrol-128-mp3
+File45=http://ice1.somafm.com/illstreet-128-mp3
+File46=http://ice2.somafm.com/illstreet-128-mp3
+File47=http://ice1.somafm.com/beatblender-128-mp3
+File48=http://ice2.somafm.com/beatblender-128-mp3
+File49=http://ice1.somafm.com/sf1033-128-mp3
+File50=http://ice2.somafm.com/sf1033-128-mp3
+File51=http://ice1.somafm.com/covers-128-mp3
+File52=http://ice2.somafm.com/covers-128-mp3
+File53=http://ice1.somafm.com/u80s-128-mp3
+File54=http://ice2.somafm.com/u80s-128-mp3
+File55=http://ice1.somafm.com/deepspaceone-128-mp3
+File56=http://ice2.somafm.com/deepspaceone-128-mp3
+File57=http://ice1.somafm.com/doomed-128-mp3
+File58=http://ice2.somafm.com/doomed-128-mp3
+File59=http://ice1.somafm.com/sonicuniverse-128-mp3
+File60=http://ice2.somafm.com/sonicuniverse-128-mp3
+File61=http://ice1.somafm.com/suburbsofgoa-128-mp3
+File62=http://ice2.somafm.com/suburbsofgoa-128-mp3
+File63=http://ice1.somafm.com/brfm-128-mp3
+File64=http://ice2.somafm.com/brfm-128-mp3
+File65=http://ice2.somafm.com/silent-128-mp3
